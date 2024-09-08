@@ -1,5 +1,7 @@
 # Better Furnace
 
+<a href="https://poggit.pmmp.io/p/BetterFurnace"><img src="https://poggit.pmmp.io/shield.state/BetterFurnace"></a>
+<br>
 This plugin adds an advanced furnace block and tokens to your server.
 
 ![](https://github.com/ByAlperenS/BetterFurnace/blob/master/image/image.png)

@@ -1,0 +1,10 @@
+name: BetterFurnace
+main: byalperens\furnace\BetterFurnace
+api: 5.18.1
+author: ByAlperenS
+version: 1.0
+load: STARTUP
+
+permissions:
+  better.furnace.token:
+    default: op

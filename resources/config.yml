@@ -1,0 +1,13 @@
+---
+# SECONDS
+token-max-durability: 300
+#
+# TOKENS:
+low-fuel-token-percentage: 25
+fast-cook-token-percentage: 20
+more-product-token-x: 2
+#
+# FEATURES:
+heatable-blocks:
+  iron_ingot: stone
+...
